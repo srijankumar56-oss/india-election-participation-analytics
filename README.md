@@ -424,21 +424,25 @@ assets/
 
 ## Dashboard Preview
 
+### Executive Summary
+
+![Participation](screenshots/01.jpg)
+
 ### Participation Trends
 
-![Participation](screenshots/participation_trends.png)
-
-### Risk Segmentation
-
-![Risk](screenshots/risk_segmentation.png)
+![Participation](screenshots/02.jpg)
 
 ### Priority Model
 
-![Priority](screenshots/priority_model.png)
+![Risk](screenshots/03.jpg)
+
+### Forward Looking Risk & Early warning system
+
+![Priority](screenshots/04.jpg)
 
 ### Final Strategy
 
-![Strategy](screenshots/final_strategy.png)
+![Strategy](screenshots/05.jpg)
 
 ---
 
